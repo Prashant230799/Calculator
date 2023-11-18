@@ -1,3 +1,3 @@
 # Calculator
 Add
-Simple Calculator by Prashant
+Simple Calculator by Prashant Baghel (523110041)
